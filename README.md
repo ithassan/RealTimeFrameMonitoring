@@ -106,7 +106,7 @@ git clone https://github.com/ithassan/RealTimeFrameMonitoring.git
 
 ## 📸 Screenshots
 
-Add screenshots or demo GIFs here.
+None.
 
 ---
 
